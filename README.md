@@ -1,1 +1,5 @@
-# budget_ke_18.19
+## Kenya's Budget for FY 2018/2019
+
+Visualized with matplotlib
+
+*WIP
